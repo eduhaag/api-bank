@@ -6,7 +6,7 @@ import routes from './routes/routes.js'
 /*(async ()=>{
   try {
     await mongoose.connect(
-      'mongodb+srv://igti:igtiBase@igticluster.ohf98.mongodb.net/api_bank?retryWrites=true&w=majority',
+      '',
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
